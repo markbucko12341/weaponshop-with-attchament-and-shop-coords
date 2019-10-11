@@ -7,7 +7,9 @@ WHAT YOU WILL NEED
  esx_clip
  eden_accesories
 
- (all are in this pack do no download it needed) 
+***if you have the weaponshop already installed and you just want the shop menus  then dont worry about the adding gun shop and gun license
+
+ (all are in this pack) 
 
 HOW TO INSTALL 
 ==============
